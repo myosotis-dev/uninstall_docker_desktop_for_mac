@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo rm -vRf /Applications/Docker.app
 sudo rm -vf /usr/local/bin/docker
 sudo rm -vf /usr/local/bin/docker-machine
